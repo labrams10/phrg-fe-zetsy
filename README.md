@@ -26,5 +26,9 @@ This challenge asks you to build the Zetsy page by writing your own HTML & CSS f
  * [Bonus: CSS3 Transitions](http://css-tricks.com/almanac/properties/t/transition/)
  * [Dev Tools Tutorial](http://code.tutsplus.com/tutorials/chrome-dev-tools-markup-and-style--net-27149)
  * [Digital Color Meter Tutorial](http://www.techrepublic.com/blog/apple-in-the-enterprise/discover-the-digitalcolor-meter-tool-on-your-mac/#)
+ 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-fe-zetsy/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-fe-zetsy/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
 
 <p data-visibility='hidden'>PHRG Zetsy</p>
